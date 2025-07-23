@@ -1,5 +1,9 @@
-## Oliver Henderson 
+## Hi, I'm Oliver 👋
+- I'm a Software Engineering student at Edinburgh Napier University with a passion for programming, problem-solving, and continuous learning. 
+- I have a strong foundation in Python, HTML/CSS, React, SQL, Java — with experience in both solo and group-based projects.
+- I enjoy building tools that solve problems, learning new technologies, and contributing to collaborative development.
 
+Outside of programming I enjoy walks in scenic places ⛰️, training in the gym 🏋️, playing computer games 🎮 and rock music 🎸. I also enjoy honing my video editing skills through freelance and personal projects, using software like Premiere Pro and DaVinci Resolve.
 
 
 <!--
