@@ -4,6 +4,7 @@
 <div align="center">
 
 [![Hello World, I'm Oliver!](header.gif)
+<br>
 Background GIF by [wolf](https://www.pinterest.com/pin/735916395364760362/) on [Pinterest](https://www.pinterest.com/).
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/olihenderson/) &nbsp;
