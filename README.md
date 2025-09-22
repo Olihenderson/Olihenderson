@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Hello World, I'm Oliver!](header.gif)
+![Hello World, I'm Oliver!](header2.gif)
 <br>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/olihenderson/) &nbsp;
