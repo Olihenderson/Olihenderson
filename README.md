@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Oliver.<br> - I'm a Software Engineering student with a passion for programming, problem-solving, and continuous learning. <br> - I have a strong foundation in Python, HTML/CSS, React, SQL, Java — with experience in both solo and group-based projects.<br>-
+Hi, I'm Oliver.<br> - I'm a Software Engineering student with a passion for programming, problem-solving, and continuous learning. <br> - I have a strong foundation in Python, HTML/CSS, React, SQL, Java — with experience in both solo and group-based projects.<br>
 
 
 ## 🌐 Socials:
