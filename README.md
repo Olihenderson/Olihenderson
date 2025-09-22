@@ -11,6 +11,11 @@
 Hi, I'm Oliver.<br>I'm a Software Engineering student with a passion for programming, problem-solving, and continuous learning. <br>I have a strong foundation in Python, HTML/CSS, React, SQL, Java — with experience in both solo and group-based projects.<br>
 <br>
 
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<br>
+
 # Skills:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,6 +26,3 @@ Hi, I'm Oliver.<br>I'm a Software Engineering student with a passion for program
 
 <div align="center">
 
-## 💡 A Quote:
-
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
