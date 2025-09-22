@@ -1,6 +1,4 @@
 
-
-
 <div align="center">
 
 ![Hello World, I'm Oliver!](header.gif)
